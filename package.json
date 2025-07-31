@@ -1,0 +1,31 @@
+{
+  "name": "wedding-invitation",
+  "version": "1.0.0",
+  "description": "A digital wedding invitation website with elegant and interactive features.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "wedding",
+    "invitation",
+    "react",
+    "nextjs"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "ts-node": "latest"
+  }
+}
