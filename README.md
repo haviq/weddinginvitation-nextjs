@@ -2,7 +2,7 @@
 
 This project is a digital wedding invitation website built with Next.js. It features elegant and interactive components to enhance the user experience, including background music, a photo gallery, and detailed event information.
 
-## Features
+## Featuress
 
 - **Hero Section**: Displays the couple's names, wedding date, and a countdown timer, along with music control options.
 - **Photo Gallery**: A responsive gallery with lightbox functionality for viewing images.
