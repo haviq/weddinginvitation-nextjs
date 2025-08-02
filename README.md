@@ -1,4 +1,4 @@
-# Wedding Invitation Website
+# Wedding Invitation Websitee
 
 This project is a digital wedding invitation website built with Next.js. It features elegant and interactive components to enhance the user experience, including background music, a photo gallery, and detailed event information.
 
